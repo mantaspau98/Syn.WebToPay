@@ -1,0 +1,6 @@
+@Syn.WebToPay.Example_HostAddress = http://localhost:5059
+
+GET {{Syn.WebToPay.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
